@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/certifoolproof.git
 2. Install dependencies
 
 ```bash
-cd certifoolproof
+cd certifoolproof/web
 npm install
 ```
 3. Configure environment variables
