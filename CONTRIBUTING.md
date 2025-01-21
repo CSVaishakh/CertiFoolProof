@@ -27,7 +27,7 @@ By participating in this project, you agree to maintain a respectful and inclusi
    ```
 3. Set up your development environment:
    ```bash
-   cd certifoolproof
+   cd certifoolproof/web
    npm install
    cp .env.example .env
    ```
